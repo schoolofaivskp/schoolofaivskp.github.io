@@ -1,6 +1,7 @@
-## School Of AI Visakhapatnam Chapter
+# School Of AI Visakhapatnam Chapter
 
-# Our mission is to offer a world-class AI education to anyone on Earth for free.
+Our mission is to offer a world-class AI education to anyone on Earth for free.
+
 Our doors are open to all those who wish to learn. We are a learning community that spans almost every country dedicated to teaching our students how to make a positive impact in the world using AI technology, whether that’s through employment or entrepreneurship.
 
 Join our [Visakhapatnam facebook group](https://www.facebook.com/groups/visakhapatnam.schoolofai/)
