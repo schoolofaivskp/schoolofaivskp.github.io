@@ -6,7 +6,7 @@ Our doors are open to all those who wish to learn. We are a learning community t
 Join our [Visakhapatnam facebook group](https://www.facebook.com/groups/visakhapatnam.schoolofai/)
 ## Meetup Resources
 | Date  | Topic |
-| ------------- | ------------- |
+|:-------------|:-----------------|
 | 7-OCT-18 | [Intro to Pandas and SKlearn](https://github.com/neha-duggirala/100DaysOfMLCode/tree/master/SchoolOfAI_Visakhapatnam)  |
 | 18-NOV-18  | [Intro to Tensorflow]()  |
 | 9-DEC-18 | [Intro to Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) |
